@@ -66,3 +66,15 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+# Features
+
+### Display an odometer with 4 digits
+### Pad with zeroes as needed (e.g. 0045)
+### Add buttons to increment/decrement the ones place, the tens, the hundeds place and the thousands place.
+### Roll over when odometer value exceeds 9999
+### Odometer should remain at zero when decrementing below zero.
+### Header component should receive a greeting value via props.
+### Footer component should receive a trademark value via props.
+### Odometer component should store numeric value in it’s state.
